@@ -1,16 +1,17 @@
-# chat-vuejs
+# Desenvolvendo um chat-vueJs
+
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodando o servidor
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Produção
 ```
 npm run build
 ```
