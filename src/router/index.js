@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Login from './views/Login.vue'
-import ChatDashboard from './views/ChatDashboard.vue'
+import Login from '../views/Login'
+import ChatDashboard from '../views/ChatDashboard'
 
 Vue.use(Router)
 
@@ -20,4 +20,5 @@ export default new Router({
       component: ChatDashboard,
     }
   ]
-})
+});
+
